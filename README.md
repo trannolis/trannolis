@@ -2,6 +2,6 @@
   
   How it works:
   
-- Front-end made with Google Web Designer. 
+- Front-end made with Google Web Designer
 - Hosted by AWS S3 and AWS Cloudfront 
 - Google Analytics for feedback
