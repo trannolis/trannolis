@@ -1,5 +1,3 @@
-  This is my first website. 
-  
   How it works:
   
 - Front-end made with Google Web Designer (HTML and CSS)
