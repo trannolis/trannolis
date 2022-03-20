@@ -1,22 +1,22 @@
-### You made it! 👋
+## You made it! 👋
 
-I'm currently building:
+#### I'm currently building:
 1. Automated cryptocurrency statarb bot
 
-Favorite tools: 
+#### Favorite tools: 
 - Python / SQL / Metaflow / MLflow / Optuna / AWS
 
-Interests:
+#### Interests:
 1. Trading strategies and risk management
 2. Creating ethical AI systems
 3. Blockchain
 
-Personal Interests:
+#### Personal Interests:
 1. Finding solutions to climate change
 2. Promoting financial literacy to bolster social equity
 3. Supporting mental health initiatives among young adults and teenagers
 
-📫 How to reach me:
+#### 📫 How to reach me:
 - email: nick.tran@nyu.edu
 <!--
 **trannolis/trannolis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
