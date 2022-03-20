@@ -6,12 +6,12 @@ I'm currently building:
 My favorite tools: 
 - Python / SQL / Metaflow / MLflow / Optuna / AWS
 
-My financie-related interests:
+My financd-related interests:
 1. Trading strategies and risk management
 
 My personal interests:
-1. Solutions to Climate Change
-2. Finanical Literacy to promote Social Equity
+1. Finding solutions to climate change
+2. Promoting finanical literacy to bolster social equity
 
 📫 How to reach me:
 - email: nick.tran@nyu.edu
