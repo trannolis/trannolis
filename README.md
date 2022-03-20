@@ -3,15 +3,16 @@
 I'm currently building:
 1. Automated cryptocurrency statarb bot
 
-My favorite tools: 
+Favorite tools: 
 - Python / SQL / Metaflow / MLflow / Optuna / AWS
 
-My financd-related interests:
+Finance-related interests:
 1. Trading strategies and risk management
 
-My personal interests:
+Personal interests:
 1. Finding solutions to climate change
 2. Promoting finandial literacy to bolster social equity
+3. Creating ethical AI systems
 
 📫 How to reach me:
 - email: nick.tran@nyu.edu
