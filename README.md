@@ -9,7 +9,7 @@
 3. Metaflow
 4. MLflow
 5. Optuna
-6. AWS
+6. AWS SageMaker 
 
 #### 🌱  Interests
 1. Trading strategies and risk management
