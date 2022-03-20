@@ -11,7 +11,7 @@ My financd-related interests:
 
 My personal interests:
 1. Finding solutions to climate change
-2. Promoting finanical literacy to bolster social equity
+2. Promoting finandial literacy to bolster social equity
 
 📫 How to reach me:
 - email: nick.tran@nyu.edu
