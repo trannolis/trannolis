@@ -6,13 +6,15 @@ I'm currently building:
 Favorite tools: 
 - Python / SQL / Metaflow / MLflow / Optuna / AWS
 
-Finance-related interests:
+Interests:
 1. Trading strategies and risk management
+2. Creating ethical AI systems
+3. Blockchain
 
-Personal interests:
+Personal Interests:
 1. Finding solutions to climate change
-2. Promoting finandial literacy to bolster social equity
-3. Creating ethical AI systems
+2. Promoting financial literacy to bolster social equity
+3. Supporting mental health initiatives among young adults and teenagers
 
 📫 How to reach me:
 - email: nick.tran@nyu.edu
