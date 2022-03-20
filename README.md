@@ -3,7 +3,7 @@
 #### 🔭 I'm currently building:
 1. Automated cryptocurrency statarb bot
 
-#### Favorite tools: 
+#### 🔨 Favorite tools: 
 1. Python
 2. SQL
 3. Metaflow
