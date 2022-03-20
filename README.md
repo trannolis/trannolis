@@ -4,7 +4,12 @@
 1. Automated cryptocurrency statarb bot
 
 #### Favorite tools: 
-- Python / SQL / Metaflow / MLflow / Optuna / AWS
+1. Python
+2. SQL
+3. Metaflow
+4. MLflow
+5. Optuna
+6. AWS
 
 #### Interests:
 1. Trading strategies and risk management
