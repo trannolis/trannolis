@@ -8,8 +8,9 @@
 2. SQL
 3. Metaflow
 4. MLflow
-5. Optuna
-6. AWS SageMaker 
+5. Optuna || Hyperopt
+6. AWS SageMaker
+7. Pyspark 
 
 #### 🌱  Interests
 1. Trading strategies and risk management
