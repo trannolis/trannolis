@@ -18,7 +18,7 @@
 
 #### 😄 Personal Interests
 1. Finding solutions to climate change
-2. Promoting financial literacy to bolster social equity
+2. Promoting financial literacy to improve social equity
 3. Supporting mental health initiatives among young adults and teenagers
 
 #### 📫 How to reach me
