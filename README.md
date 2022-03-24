@@ -1,7 +1,7 @@
 ## You made it! 👋
 
 #### 💻 I'm currently building:
-- Automated cryptocurrency statarb bot
+1. Automated cryptocurrency statarb bot
 
 #### 🔨 Favorite tools: 
 1. Python
