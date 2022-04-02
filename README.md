@@ -15,7 +15,7 @@
 #### 🌱  Interests
 1. Trading strategies and risk management
 2. Blockchain
-3. Investigating the ethical impacts of AI to society
+3. Investigating the ethical impacts of AI on society
 
 #### 😄 Personal Interests
 1. Finding solutions to climate change
