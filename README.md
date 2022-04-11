@@ -18,7 +18,7 @@
 3. Investigating the ethical impacts of AI on society
 
 #### 😄 Personal Interests
-1. Finding solutions to climate change
+1. Promoting solutions to climate change (i.e. Nuclear, EV's, ...) 
 2. Promoting financial literacy to improve social equity
 3. Supporting mental health initiatives among young adults and teenagers
 
