@@ -20,7 +20,7 @@
 #### 😄 Personal Interests
 1. Promoting solutions to climate change (i.e. Nuclear, EV's, ...) 
 2. Promoting financial literacy to improve social equity
-3. Supporting mental health initiatives among young adults and teenagers
+3. Supporting mental health initiatives for young adults and teenagers
 
 #### 📫 How to reach me
 - email: nick.tran@nyu.edu
