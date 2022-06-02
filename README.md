@@ -25,7 +25,7 @@
 3. Supporting mental health initiatives for young adults and teenagers
 
 #### 📫 How to reach me
-- email: nick.tran@nyu.edu
+- email: nick [dot] tran [at] nyu.edu
 <!--
 **trannolis/trannolis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
