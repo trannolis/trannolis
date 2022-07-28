@@ -8,8 +8,8 @@
 3. Metaflow
 4. MLflow
 5. Optuna || Hyperopt
-6. AWS SageMaker
-7. Pyspark 
+6. Azure Machine Learning (AML)
+7. Spark...with Pyspark :)  
 
 #### 🌱  Interests
 1. Trading strategies and risk management
