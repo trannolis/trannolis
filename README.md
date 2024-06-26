@@ -1,7 +1,5 @@
 ## You made it! 👋
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1295975240&cover_image=true&theme=novatorem&bar_color=9d01d5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 #### 🔨 Favorite Data Science & MLOps Tools: 
 1. Python
 2. Apache Spark (Databricks)
